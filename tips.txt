@@ -1,0 +1,12 @@
+compile the program "make"
+reuired library :
+1.xlib
+2.libxft
+
+config.h contains 
+1.alpha patch
+2.scroll with pg button patch
+3.scroll with mouse button patch
+
+to change scroll value change button4 and button5 argument .i = 2
+change this to desired value and recompile
